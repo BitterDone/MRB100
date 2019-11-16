@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+d:\repos\personalgithub\mrb100\11_buildifcbok\mrb100\app.cpp(26): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': marked as deprecated
+  d:\repos\personalgithub\mrb100\11_buildifcbok\mrb100\app.cpp(26): note: Message: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+  MRB100.vcxproj -> D:\Repos\PersonalGithub\MRB100\11_buildIfCbOk\build\bin\Win32\Debug\MRB100.exe

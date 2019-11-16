@@ -1,0 +1,54 @@
+
+Created eye textures with a "separate" layout.  The "multi-pass" stereo mode will be used.
+
+[0.035598 / 8.065184] - OnCoreWindowSizeChanged event (0.00, 0.00, 845.33, 480.00), m_Initialized=True.
+[0.068817 / 8.134000] - Finishing first scene loading
+[0.000914 / 8.134914] - First level loaded
+[0.000520 / 8.135434] - PerformUpdateAndRender started
+Windows Mixed Reality spatial locatability state changed to Active.
+ 
+(Filename: C:\buildslave\unity\build\Modules/VR/HoloLens/HoloLensWorldManager.cpp Line: 324)
+
+UnloadTime: 7.015400 ms
+main start
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+main:print(String)
+main:Start()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+cb is ok: Confluent.Kafka.ConsumerBuilder`2[Confluent.Kafka.Ignore,System.String]
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+main:print(String)
+main:Start()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception thrown at 0x776F3072 in MRB100.exe: Microsoft C++ exception: Il2CppExceptionWrapper at memory location 0x01F0BB84.
+Exception thrown at 0x776F3072 in MRB100.exe: Microsoft C++ exception: Il2CppExceptionWrapper at memory location 0x01F0E384.
+Exception thrown at 0x776F3072 in MRB100.exe: Microsoft C++ exception: Il2CppExceptionWrapper at memory location 0x01F0E384.
+InvalidOperationException: Sequence contains no matching element
+  at System.Linq.Enumerable.Single[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00000] in <00000000000000000000000000000000>:0 
+  at Confluent.Kafka.Impl.Librdkafka.SetDelegates (System.Type nativeMethodsClass) [0x00000] in <00000000000000000000000000000000>:0 
+  at Confluent.Kafka.Impl.Librdkafka.Initialize (System.String userSpecifiedPath) [0x00000] in <00000000000000000000000000000000>:0 
+  at Confluent.Kafka.Consumer`2[TKey,TValue]..ctor (Confluent.Kafka.ConsumerBuilder`2[TKey,TValue] builder) [0x00000] in <00000000000000000000000000000000>:0 
+  at Confluent.Kafka.ConsumerBuilder`2[TKey,TValue].Build () [0x00000] in <00000000000000000000000000000000>:0 
+  at main.Start () [0x00000] in <00000000000000000000000000000000>:0 
+ 
+(Filename: currently not available on il2cpp Line: -1)
+
+in update, logging: False
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+main:print(String)
+main:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)

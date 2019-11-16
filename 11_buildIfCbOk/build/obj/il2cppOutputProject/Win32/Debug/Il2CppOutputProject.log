@@ -1,0 +1,232 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x86\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x86\cl.exe
+  
+  	Output directory: D:\Repos\PersonalGithub\MRB100\11_buildIfCbOk\build\bin\Win32\Debug
+  	Cache directory: D:\Repos\PersonalGithub\MRB100\11_buildIfCbOk\build\obj\il2cppOutputProject\Win32\Debug
+  Il2CppGenericMethodDefinitions.c
+  mscorlib_CodeGen.c
+  Il2CppMetadataUsage.c
+  Il2CppGenericMethodPointerTable.cpp
+  Il2CppTypeDefinitions.c
+  mscorlib4.cpp
+  mscorlib3.cpp
+  mscorlib12.cpp
+  Il2CppCompilerCalculateTypeValues1.cpp
+  Il2CppAttributes.cpp
+  Il2CppInvokerTable.cpp
+  Il2CppGenericMethodTable.c
+  UnityEngine.UI.cpp
+  mscorlib15.cpp
+  GenericMethods1.cpp
+  Generics1.cpp
+  Il2CppCompilerCalculateTypeValues.cpp
+  mscorlib7.cpp
+  mscorlib11.cpp
+  com.unity.multiplayer-hlapi.Runtime.cpp
+  mscorlib10.cpp
+  mscorlib9.cpp
+  mscorlib2.cpp
+  com.unity.multiplayer-hlapi.Runtime2.cpp
+  mscorlib.cpp
+  mscorlib6.cpp
+  UnityEngine.UI1.cpp
+  com.unity.multiplayer-hlapi.Runtime1.cpp
+  mscorlib16.cpp
+  Generics.cpp
+  UnityEngine.CoreModule.cpp
+  UnityEngine.UI2.cpp
+  GenericMethods3.cpp
+  mscorlib1.cpp
+  GenericMethods4.cpp
+  mscorlib5.cpp
+  mscorlib8.cpp
+  mscorlib13.cpp
+  Generics19.cpp
+  System.cpp
+  Confluent.Kafka.cpp
+  Generics5.cpp
+  System1.cpp
+  UnityEngine.CoreModule1.cpp
+  Generics10.cpp
+  Generics2.cpp
+  Generics9.cpp
+  GenericMethods.cpp
+  Generics4.cpp
+  mscorlib14.cpp
+  Generics15.cpp
+  Il2CppGenericClassTable.c
+  Generics18.cpp
+  GenericMethods5.cpp
+  Generics6.cpp
+  Generics7.cpp
+  Generics13.cpp
+  Generics12.cpp
+  Generics17.cpp
+  GenericMethods2.cpp
+  Generics11.cpp
+  Generics14.cpp
+  Generics8.cpp
+  Il2CppGenericInstDefinitions.c
+  UnityEngine.IMGUIModule.cpp
+  Generics3.cpp
+  Generics16.cpp
+  I18N.Rare.cpp
+  System2.cpp
+  UnityEngine.UNETModule.cpp
+  UnityEngine.UI3.cpp
+  UnityEngine.VRModule.cpp
+  com.unity.multiplayer-hlapi.Runtime3.cpp
+  UnresolvedVirtualCallStubs.cpp
+  I18N.cpp
+  Generics20.cpp
+  I18N.CJK.cpp
+  mscorlib17.cpp
+  com.unity.multiplayer-hlapi.Runtime_CodeGen.c
+  I18N.West.cpp
+  I18N.Rare1.cpp
+  UnityEngine.UI_CodeGen.c
+  UnityEngine.CoreModule_CodeGen.c
+  System_CodeGen.c
+  UnityEngine.XRModule.cpp
+  Il2CppCompilerCalculateTypeValuesTable.cpp
+  UnityEngine.AndroidJNIModule.cpp
+  UnityEngine.UnityWebRequestModule.cpp
+  UnityEngine.TerrainModule.cpp
+  Il2CppInteropDataTable.cpp
+  I18N.Other.cpp
+  UnityEngine.AnimationModule.cpp
+  Confluent.Kafka1.cpp
+  I18N.MidEast.cpp
+  Confluent.Kafka_CodeGen.c
+  UnityEngine.TextRenderingModule.cpp
+  UnityEngine.Physics2DModule.cpp
+  char-conversions.cpp
+  UnityEngine.PhysicsModule.cpp
+  UnityEngine.UIModule.cpp
+  UnityEngine.SharedInternalsModule.cpp
+  UnityEngine.InputLegacyModule.cpp
+  UnityEngine.IMGUIModule_CodeGen.c
+  UnityEngine.UNETModule_CodeGen.c
+  Mono.Security.cpp
+  Assembly-CSharp.cpp
+  System.Memory.cpp
+  UnityEngine.AudioModule.cpp
+  I18N.Rare_CodeGen.c
+  UnityEngine.VRModule_CodeGen.c
+  UnityEngine.UIElementsModule.cpp
+  UnityEngine.AndroidJNIModule_CodeGen.c
+  UnityEngine.VideoModule.cpp
+  I18N.CJK_CodeGen.c
+  UnityEngine.TilemapModule.cpp
+  UnityEngine.ParticleSystemModule.cpp
+  UnityEngine.UnityAnalyticsModule.cpp
+  System.Configuration.cpp
+  UnityEngine.VFXModule.cpp
+  UnityEngine.XRModule_CodeGen.c
+  I18N_CodeGen.c
+  UnityEngine.InputModule.cpp
+  System.Core.cpp
+  deflate.c
+  UnityEngine.JSONSerializeModule.cpp
+  UnityEngine.AnimationModule_CodeGen.c
+  UnityEngine.UnityWebRequestModule_CodeGen.c
+  trees.c
+  System.Core_CodeGen.c
+  inflate.c
+  UnityEngine.AssetBundleModule.cpp
+  UnityEngine.PhysicsModule_CodeGen.c
+  xamarin_getifaddrs.c
+  I18N.West_CodeGen.c
+  UnityEngine.UIModule_CodeGen.c
+  infback.c
+  UnityEngine.Physics2DModule_CodeGen.c
+  gzread.c
+  gzwrite.c
+  I18N.Other_CodeGen.c
+  UnityEngine.SharedInternalsModule_CodeGen.c
+  UnityEngine.TextRenderingModule_CodeGen.c
+  gzlib.c
+  UnityEngine.AIModule.cpp
+  UnityEngine.TerrainModule_CodeGen.c
+  inffast.c
+  UnityEngine.DirectorModule.cpp
+  inftrees.c
+  crc32.c
+  UnityEngine.AudioModule_CodeGen.c
+  I18N.MidEast_CodeGen.c
+  System.Memory_CodeGen.c
+  UnityEngine.InputLegacyModule_CodeGen.c
+  UnityEngine.VideoModule_CodeGen.c
+  UnityEngine.TilemapModule_CodeGen.c
+  zutil.c
+  System.Configuration_CodeGen.c
+  UnityEngine.UIElementsModule_CodeGen.c
+  UnityEngine.UnityAnalyticsModule_CodeGen.c
+  UnityEngine.ParticleSystemModule_CodeGen.c
+  adler32.c
+  Il2CppCodeRegistration.cpp
+  UnityEngine.VFXModule_CodeGen.c
+  System.Xml.cpp
+  Mono.Security_CodeGen.c
+  UnityEngine.InputModule_CodeGen.c
+  uncompr.c
+  UnityEngine.GridModule.cpp
+  System.Runtime.CompilerServices.Unsafe.cpp
+  il2cpp-api.cpp
+  compress.c
+  System.Runtime.CompilerServices.Unsafe_CodeGen.c
+  UnityEngine.AIModule_CodeGen.c
+  Il2CppReversePInvokeWrapperTable.cpp
+  UnityAdsStubs.cpp
+  Assembly-CSharp_CodeGen.c
+  krait_signal_handler.c
+  UnityEngine.DirectorModule_CodeGen.c
+  Il2CppMetadataRegistration.c
+  UnityEngine.JSONSerializeModule_CodeGen.c
+  netstandard.cpp
+  System.Globalization.Extensions.cpp
+  System.Diagnostics.StackTrace.cpp
+  System.Runtime.cpp
+  UnityEngine.cpp
+  UnityEngine.GridModule_CodeGen.c
+  System.Xml_CodeGen.c
+  gzclose.c
+  il2cpp-benchmark-support.cpp
+  System.Globalization.Extensions_CodeGen.c
+  System.Diagnostics.StackTrace_CodeGen.c
+  Lump_libil2cpp_utils.cpp
+  UnityEngine.AssetBundleModule_CodeGen.c
+  System.Runtime_CodeGen.c
+  netstandard_CodeGen.c
+  UnityEngine_CodeGen.c
+  Lump_libil2cpp_mono-runtime.cpp
+  Lump_libil2cpp_debugger.cpp
+  Lump_libil2cpp_metadata.cpp
+  Lump_libil2cpp_mono.cpp
+  Il2CppGenericComDefinitions.cpp
+  gc.c
+  Lump_libil2cpp_gc.cpp
+  Lump_libil2cpp_vm-utils.cpp
+  il2cpp-runtime-stats.cpp
+  Lump_libil2cpp_codegen.cpp
+  Lump_libil2cpp_icalls.cpp
+  Lump_libil2cpp_vm.cpp
+  Lump_libil2cpp_os.cpp
+  ObjectFiles: 209 of which compiled: 209
+  	Time Compile: 7767 milliseconds Lump_libil2cpp_os.cpp
+  	Time Compile: 6530 milliseconds Lump_libil2cpp_icalls.cpp
+  	Time Compile: 6008 milliseconds Lump_libil2cpp_vm.cpp
+  	Time Compile: 3754 milliseconds gc.c
+  	Time Compile: 3340 milliseconds Lump_libil2cpp_vm-utils.cpp
+  	Time Compile: 3017 milliseconds Lump_libil2cpp_metadata.cpp
+  	Time Compile: 2582 milliseconds Il2CppCompilerCalculateTypeValues.cpp
+  	Time Compile: 2552 milliseconds Lump_libil2cpp_mono.cpp
+  	Time Compile: 2538 milliseconds Lump_libil2cpp_codegen.cpp
+  	Time Compile: 2498 milliseconds Lump_libil2cpp_gc.cpp
+  Total compilation time: 26401 milliseconds.
+  Creating library D:\Repos\PersonalGithub\MRB100\11_buildIfCbOk\build\obj\il2cppOutputProject\Win32\Debug\linkresult_4F0FBBB5352F2D6C4B63452EF3F450B2\GameAssembly.lib and object D:\Repos\PersonalGithub\MRB100\11_buildIfCbOk\build\obj\il2cppOutputProject\Win32\Debug\linkresult_4F0FBBB5352F2D6C4B63452EF3F450B2\GameAssembly.exp
+  Total link time: 7400 milliseconds.
+  Cleaned up 2 object files.
